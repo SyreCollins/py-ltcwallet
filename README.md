@@ -11,7 +11,7 @@ This project provides a set of Python scripts to create, load, and check the bal
 ## USAGE & COMMANDS
 - **create**: Command for creating a new litecoin wallet
 - **load**: Command for loading existing wallet from the json file where most details are stored or by inputing the entropy seed manually
-- **see_balance**: Command for seeing available litecooin balance.
+- **see_balance**: Command for seeing available litecoin balance.
 - 
 ## FUTURES
  - **I plan to implement a script that allows a user to send litecoin crypto to other litecoin wallets/users.**
@@ -25,4 +25,4 @@ To install the necessary dependencies, run the following command:
 ```bash
 pip install hdwallet
 pip install blockcypher
-pip install 'any other module' ```
+pip install 'any other module' 
